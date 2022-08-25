@@ -1,1 +1,1 @@
-# ML-Classification---Rock-vs-Mine
+# ML-Classification-Rock-vs-Mine
